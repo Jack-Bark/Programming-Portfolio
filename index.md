@@ -4,10 +4,9 @@
 
 ### Calculator Project
 
+Simple calculator coded using Processing
+
+https://github.com/Jack-Bark/Programming-Portfolio/blob/gh-pages/images/calc.png?raw=true
+
 ## Programming Semester 2 Projects:
-
-![Calculator]()
-
-[Source Code]()
-
 
