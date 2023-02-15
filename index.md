@@ -16,5 +16,11 @@ A simple programm with cars randomly generated
 
 [Source Code](https://github.com/Jack-Bark/Programming-Portfolio/tree/gh-pages/src/car)
 
+Simple EtchASketch type program you can control with arrow keys
+
+![EtchASketch](https://github.com/Jack-Bark/Programming-Portfolio/blob/gh-pages/images/sketch.png?raw=true)
+
+[Source Code](https://github.com/Jack-Bark/Programming-Portfolio/tree/gh-pages/src/EtchASketch)
+
 ## Programming Semester 2 Projects:
 
