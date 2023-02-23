@@ -24,3 +24,10 @@ Simple EtchASketch type program you can control with arrow keys
 
 ## Programming Semester 2 Projects:
 
+### Pig latin translator
+
+program which translates words inputted into pig latin coded in Python. 
+
+![pig latin](https://github.com/Jack-Bark/Programming-Portfolio/blob/gh-pages/images/Screenshot%202023-02-22%20183403.png?raw=true)
+
+[Source Code](https://github.com/Jack-Bark/Programming-Portfolio/blob/gh-pages/src/Pig%20Latin/Pig%20Latin%20Source)
