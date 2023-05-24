@@ -1,4 +1,4 @@
-# Welcome to Jack Barklow's Programming Portfolio
+# Welcome to Jack Barklow's Programming Portfolio johnbark9679@granitesd.org
 
 ## Programming Semester 1 Projects:
 
