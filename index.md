@@ -24,6 +24,12 @@ Simple EtchASketch type program you can control with arrow keys
 
 [Source Code](https://github.com/Jack-Bark/Programming-Portfolio/tree/gh-pages/src/EtchASketch)
 
+Game where yuo have to shoot rocks are the game ends
+
+![SpaceGame](https://github.com/Jack-Bark/Programming-Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-24%20at%2012.21.41%20PM.png?raw=true)
+
+
+
 ## Programming Semester 2 Projects:
 
 ### Pig latin translator
