@@ -1,5 +1,7 @@
 # Welcome to Jack Barklow's Programming Portfolio johnbark9679@granitesd.org
 
+# Certified in computer programming 1, test 820
+
 ## Programming Semester 1 Projects:
 
 ### Calculator Project
