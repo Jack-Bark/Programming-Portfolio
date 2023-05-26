@@ -1,5 +1,5 @@
 
-# Welcome to Jack Barklow's Programming Portfolio johnbark9679@granitesd.org
+# Welcome to Jack Barklow's Programming Portfolio [email](mailto:johnbark9679@granitesd.org)
 
 # Certified in computer programming 1, test 820
 
